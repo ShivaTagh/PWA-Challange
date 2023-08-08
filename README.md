@@ -35,7 +35,7 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is: [https://jate-pwa-challange-76964cef1416.herokuapp.com/)
+The link to the deployed application is: [https://jate-pwa-challange-76964cef1416.herokuapp.com)
 
 
 ## Demo
