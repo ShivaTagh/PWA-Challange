@@ -41,6 +41,11 @@ The link to the deployed application is: [https://jate-pwa-challange-76964cef141
 ## Demo
 Below is the demostration of this application. 
 [PWA-Demo.webm](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/d692cc6d-a2fb-49cd-8464-97005816ef10)
+![image](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/29a1498a-f47f-41b7-a009-895808a16ee1)
+![image](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/57c87d2f-fb69-464d-89ce-bd18f36387eb)
+![image](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/7e73b981-d415-4cdf-bd16-27d9dbb3ab13)
+![image](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/82c23617-85a0-4661-8918-f694b6041d69)
+![image](https://github.com/ShivaTagh/PWA-Challange/assets/127795324/a1353e97-a29d-4695-8a40-b9da0381a93a)
 
 ## Built With
 
