@@ -20,7 +20,7 @@ const pageCache = new CacheFirst({
 });
 
 warmStrategyCache({
-  urls: ['/index.html', '/'],
+  urls: ['../index.html', '/'],
   strategy: pageCache,
 });
 
@@ -36,6 +36,7 @@ registerRoute(
       // This plugin will cache responses with these headers to a maximum-age of 30 days
       new CacheableResponsePlugin({
         statuses: [0, 200],
+
       }),
     ],
   })
